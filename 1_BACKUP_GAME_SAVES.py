@@ -40,4 +40,5 @@ dist_folder_path = dist_dir+"\\"+new_folder_name
 copy_directory_with_overwrite(source_dir, dist_folder_path)
 ##################################################
 ##################################################
-input(f'B1存檔備份完成! 資料夾:{dist_folder_path}')
+input(f'GAME存檔備份完成! 資料夾:{dist_folder_path}')
+
